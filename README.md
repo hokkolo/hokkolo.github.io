@@ -1,2 +1,0 @@
-# hokkolo.github.io
-Portfolio
